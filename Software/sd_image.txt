@@ -1,0 +1,7 @@
+Please download RaspberryPi OS sd boot iamge for 11ah from URL bellow.
+Basic authentication is applied to the URL.
+  user:   ntteast-11ah
+  passwd: beatcraft9973 
+
+http://www.beatcraft.jp/NTTE/11AH_20230530.img.xz
+
