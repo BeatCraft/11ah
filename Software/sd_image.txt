@@ -1,4 +1,8 @@
-Please download Raspberry Pi OS sd boot iamge for 11ah from the URL bellow.
+Raspberry Pi OS sd boot iamge for 11ah
+
+Raspberry Pi OS sd boot image for 11ah is too big for place here.
+Please download it from the URL bellow.
+
 Basic authentication is applied to the URL.
   user:   ntteast-11ah
   passwd: beatcraft9973 
