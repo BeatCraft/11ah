@@ -8,7 +8,7 @@ http://www.beatcraft.jp/NTTE/11AH_20230530.img.xz
 各ファイルをそれぞれ以下の PATH に配置して起動すると、  
 起動時に AP 設定で BC-11ah の wlan0 が up し 11ah AP として動作します。  
 （11AH_20230530.img.xz を使用して起動し、nrc7292_sw_pkg を使って  
-/home/pi/nrc_pg 一式がインストールされている前提です。） 
+/home/pi/nrc_pkg 一式がインストールされている前提です。） 
 
 
 AP_files/11ah_test/ap.sh  
