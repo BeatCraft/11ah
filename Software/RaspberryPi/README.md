@@ -50,3 +50,7 @@ Newracom の nrc7292_sw_pkg に関しては、github の [nrc7292_sw_pkg](https:
 などのドキュメント一式を参照してください。
 
 
+## APモード起動
+AP モードで起動する方法については、AP_files/AP_README.md を参照してください。  
+
+
