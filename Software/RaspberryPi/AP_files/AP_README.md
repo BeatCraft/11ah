@@ -26,9 +26,10 @@ AP_files/autostart/boot.desktop
 
 に配置してください。
 
-Desktop 起動時に実行され、lxtermial を開いて  
-bc_boot.sh を実行します。
-
+boot.desktop は Desktop 起動時に実行され、lxtermial を開いて bc_boot.sh を実行します。  
+この autostart は Desktop モードのときしか実行されないので、  
+Raspberry Pi は Console モードに変更せず  
+Desktop モードで起動する設定のまま使用してください。  
 
 AP の ssid を変更する場合は、  
 /media/beat/rootfs/home/pi/nrc_pkg/script/conf/JP/ap_halow_open.conf  
