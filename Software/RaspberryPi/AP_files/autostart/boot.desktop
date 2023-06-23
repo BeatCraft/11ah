@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=11ah_auto_start
+Exec=lxterminal -e /home/pi/11ah_test/bc_boot.sh
+Type=Application
+
