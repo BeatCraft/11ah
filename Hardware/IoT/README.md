@@ -1,2 +1,2 @@
-# 11ah
-software and hardware for BC-11ah
+# BC-11ah IoT
+IoT Exrension Board
