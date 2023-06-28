@@ -1,4 +1,4 @@
-# Raspberry Pi OS sd boot iamge for 11ah
+# Raspberry Pi OS sd boot image for 11ah
 
 BC-11ahモジュールを使用するためのソフトウェアをセットアップ済みの  
 Raspberry Pi OS microSD起動イメージです。  
@@ -15,17 +15,13 @@ Raspberry Pi OS microSD起動イメージです。
 
 http://www.beatcraft.jp/NTTE/11AH_20230530.img.xz  
 
-ベーシック認証をかけてありますのでダウンロードの際は以下の認証情報を使用してください。  
-* user: ntteast-11ah
-* password: beatcraft9973
-
 ファイルサイズ: 1.5GB (1570129464 byte)  
 SHA256ファイルハッシュ値: d63541c07b584f366d3fc85cce8cc92d5572f2be43816f85e0fa6ce3f4bbd59b  
 
 
 このイメージで起動後ログインして操作するためには以下のユーザーを使用してください。  
-* user: pi
-* password: beatcraft
+* user : pi
+* password : beatcraft
 
 
 ## 各種参照情報
