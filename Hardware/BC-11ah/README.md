@@ -1,2 +1,2 @@
 # BC-11ah
-software and hardware for BC-11ah
+docs of BC-11ah
