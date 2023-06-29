@@ -2,11 +2,11 @@
 
 このディレクトリ内のファイルは  
 "Raspberry Pi OS sd boot iamge for 11ah"  
-http://www.beatcraft.jp/NTTE/11AH_20230530.img.xz  
+https://github.com/BeatCraft/11ah/releases/download/v1.0.0/11AH_20230530.img.xz  
 をAP モードで起動させるのに必要なファイルです。  
 
 各ファイルをそれぞれ以下の PATH に配置して起動すると、  
-起動時に AP 設定で BC-11ah の wlan0 が up し 11ah AP として動作します。  
+起動時に AP 設定で BC-11ah の wlan0 が up し 11ah AP（アクセスポイント） として動作します。  
 （nrc7292_sw_pkg を使って /home/pi/nrc_pkg 一式がインストールされている  
 　11AH_20230530.img.xz で起動している前提です。） 
 
