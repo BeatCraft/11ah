@@ -17,7 +17,17 @@ https://github.com/BeatCraft/11ah/releases/download/v1.0.0/11AH_20230530.img.xz
 SHA256ファイルハッシュ値: d63541c07b584f366d3fc85cce8cc92d5572f2be43816f85e0fa6ce3f4bbd59b  
 
 
-このイメージで BC-11ah を接続した Raspberry Pi を起動後ログインして操作するためには以下のユーザーを使用してください。  
+microSD カードへの書き込みには、  
+・Raspberry Pi 公式の [Raspberry Pi Imager](https://www.raspberrypi.com/software/)   
+・[balenaEtcher](https://etcher.balena.io/#download-etcher)  
+などを使うか、  
+Linux 上で dd コマンドを使用し  
+`$ sudo dd bs=4M if=11AH_20230530.img.xz of=/dev/sdb conv=fsync status=progress`  
+のように実行してください。
+
+
+このイメージで BC-11ah を接続した Raspberry Pi を起動後ログインして操作するためには  
+以下のユーザーを使用してください。  
 * user : pi
 * password : beatcraft
 
