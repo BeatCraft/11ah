@@ -1,2 +1,2 @@
 # BC-11ah IoT
-IoT Exrension Board
+IoT Extension Board
