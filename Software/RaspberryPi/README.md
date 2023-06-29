@@ -1,7 +1,7 @@
 # Raspberry Pi OS sd boot image for 11ah
 
 BC-11ahモジュールを使用するためのソフトウェアをセットアップ済みの  
-Raspberry Pi OS microSD起動イメージです。  
+Raspberry Pi OS microSD 起動イメージです。  
 
 ファイル構成は、  
 [Raspberry Pi OS with desktop (32bit) 2023年2月21日 Release 版](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf.img.xz)  
@@ -10,16 +10,14 @@ Raspberry Pi OS microSD起動イメージです。
 をセットアップしたものです。
 
 
-この microSD 起動イメージは github にファイルを置いて配布するにはファイルサイズが大きすぎるため、  
-以下の URL からダウンロードして取得してください。  
+起動イメージファイルは Release ページからダウンロードしてください。 
+https://github.com/BeatCraft/11ah/releases/download/v1.0.0/11AH_20230530.img.xz
 
-http://www.beatcraft.jp/NTTE/11AH_20230530.img.xz  
-
-ファイルサイズ: 1.5GB (1570129464 byte)  
+ファイルサイズ: 1.5 GB (1570129464 byte)  
 SHA256ファイルハッシュ値: d63541c07b584f366d3fc85cce8cc92d5572f2be43816f85e0fa6ce3f4bbd59b  
 
 
-このイメージで起動後ログインして操作するためには以下のユーザーを使用してください。  
+このイメージで BC-11ah を接続した Raspberry Pi を起動後ログインして操作するためには以下のユーザーを使用してください。  
 * user : pi
 * password : beatcraft
 
