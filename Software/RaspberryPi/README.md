@@ -21,8 +21,9 @@ microSD カードへの書き込みには、
 ・Raspberry Pi 公式の [Raspberry Pi Imager](https://www.raspberrypi.com/software/)   
 ・[balenaEtcher](https://etcher.balena.io/#download-etcher)  
 などを使うか、  
-Linux 上で dd コマンドを使用し  
-`$ sudo dd bs=4M if=11AH_20230530.img.xz of=/dev/sdb conv=fsync status=progress`  
+Linux 上で xz 圧縮を展開後 dd コマンドを使用し  
+`$ xz -dvv 11AH_20230530.img.xz`  
+`$ sudo dd bs=4M if=11AH_20230530.img of=/dev/sdb conv=fsync status=progress`  
 のように実行してください。
 
 
