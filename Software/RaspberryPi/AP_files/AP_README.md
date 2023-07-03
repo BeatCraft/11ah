@@ -17,8 +17,10 @@ AP_files/11ah_test/bc_boot.sh
 /home/pi/11ah_test/ap.sh  
 /home/pi/11ah_test/bc_boot.sh  
 
-に配置してください。
+に配置し、実行権を与えてください。
 
+$ chmod +x /home/pi/11ah_test/ap.sh  
+$ chmod +x /home/pi/11ah_test/bc_boot.sh  
 
 AP_files/autostart/boot.desktop  
 →  
